@@ -1,0 +1,37 @@
+[[main]]
+  name = "News"
+  url = ""
+  weight = 10
+
+[[main]]
+  name = "Property"
+  url = "/property/"
+  weight = 20
+
+[[main]]
+  name = "About Us"
+  url = "/about/"
+  weight = 30
+
+[[main]]
+  name = "Links"
+  url = "/links/"
+  identifier = "Links"
+  weight = 45
+
+[[main]]
+  name = "Business Connect"
+  url = "https://nzbusinessconnect.co.nz/"
+  parent = "Links"
+  weight = 10
+
+[[main]]
+  name = "MediaPA"
+  url = "https://mediapa.co.nz/"
+  parent = "Links"
+  weight = 20
+
+[[main]]
+  name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
+  url = "/contact/"
+  weight = 50
