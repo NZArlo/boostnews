@@ -14,6 +14,11 @@
   weight = 25
 
 [[main]]
+  name = "Rural"
+  url = "/rural/"
+  weight = 29
+
+[[main]]
   name = "About Us"
   url = "/about/"
   weight = 30
