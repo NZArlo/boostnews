@@ -1,18 +1,18 @@
 ---
 title: "Contrasting Real Estate Landscapes: Exploring the Differences Between USA and NZ Markets"
 date: 2023-06-29
-categories: ["News"]
+categories: ["Property"]
 tags:
 - Coromandel
 - Thames
-description: "Contrasting Real Estate Landscapes: Exploring the Differences Between USA and NZ Markets"
-thumbnail: /posts/contrasting-real-estate/thumbnail.jpg
-slug: "/posts/contrasting-real-estate/"
-discussionId: "/posts/contrasting-real-estate/"
+description: "The economies of New Zealand and the United States both heavily rely on the real estate sector. The two nations’ approaches to property, however, differ significantly. Understanding these disparities is essential for both investors and homeowners, from market dynamics to legislation. The following piece will compare and contrast the housing markets in the USA and New Zealand in five main areas, highlighting the differences between both."
+thumbnail: "/property/contrasting-real-estate/thumbnail.png"
+slug: "/property/contrasting-real-estate/"
+discussionId: "/property/contrasting-real-estate/"
 featured: true
 toc: true
 ---
-![UK Correspondent: Peter Minkoff](thumbnail.jpg)
+![UK Correspondent: Peter Minkoff](thumbnail.png)
 
 The economies of New Zealand and the United States both heavily rely on the real estate sector. The two nations’ approaches to property, however, differ significantly. Understanding these disparities is essential for both investors and homeowners, from market dynamics to legislation. The following piece will compare and contrast the housing markets in the USA and New Zealand in five main areas, highlighting the differences between both.
 

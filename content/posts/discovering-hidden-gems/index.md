@@ -6,7 +6,7 @@ tags:
 - Coromandel
 - Rural
 - Thames
-description: "Discovering Hidden Gems: Must-See Destinations Around the World"
+description: "Traveling is an amazing way to enjoy stunning scenery, discover new cultures, and forge lifelong memories. When there are so many incredible destinations to see, it might be challenging to concentrate on your travel wish list. These must-see locations throughout the world will grab your senses and leave you wanting more, whether you’re an explorer, a history buff, or just looking for a relaxed holiday."
 thumbnail: /posts/discovering-hidden-gems/thumbnail.jpg
 slug: "/posts/discovering-hidden-gems/"
 discussionId: "/posts/discovering-hidden-gems/"

@@ -5,7 +5,7 @@ categories: ["News"]
 tags:
 - Coromandel
 - Thames
-description: "Hahei: Where Rural Charm Meets Coastal Beauty in Thames Coromandel"
+description: "Nestled in the scenic Thames Coromandel region of New Zealand, Hahei is a charming rural village that effortlessly marries the tranquillity of the countryside with the captivating allure of its coastal wonders. With its proximity to the renowned Hot Water Beach and the iconic Cathedral Cove, Hahei offers visitors a truly immersive experience amidst breathtaking landscapes and pristine beaches."
 thumbnail: /posts/hahei/thumbnail.jpg
 slug: "/posts/hahei/"
 discussionId: "/posts/hahei/"

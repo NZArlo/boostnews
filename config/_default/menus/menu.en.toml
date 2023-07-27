@@ -9,6 +9,11 @@
   weight = 20
 
 [[main]]
+  name = "Business"
+  url = "/business/"
+  weight = 25
+
+[[main]]
   name = "About Us"
   url = "/about/"
   weight = 30
@@ -30,6 +35,30 @@
   url = "https://mediapa.co.nz/"
   parent = "Links"
   weight = 20
+
+[[main]]
+  name = "Boost Property"
+  url = "https://www.facebook.com/BoostPropertyMedia"
+  parent = "Links"
+  weight = 30
+
+[[main]]
+  name = "Boost Business"
+  url = "https://www.facebook.com/BoostProfessionalServices"
+  parent = "Links"
+  weight = 40
+
+[[main]]
+  name = "Boost Travel"
+  url = "https://www.facebook.com/BoostTravel"
+  parent = "Links"
+  weight = 50
+
+[[main]]
+  name = "Boost Sustainability"
+  url = "https://www.facebook.com/BoostSustainability"
+  parent = "Links"
+  weight = 60
 
 [[main]]
   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
